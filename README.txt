@@ -1,3 +1,5 @@
+Code to accompany Moustafa, T.E., Belote, R.L., Polanco, E.R., Judson-Torres, R.L., and Zangle, T.A., “Quadrant darkfield (QDF) for label-free imaging of intracellular puncta,” Journal of Biomedical Optics, 2024.
+
 Run the Main function in order to generate data from a small set of raw images
 
 Data folder contains two sets of data. 
